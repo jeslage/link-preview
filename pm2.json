@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "link-preview",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}

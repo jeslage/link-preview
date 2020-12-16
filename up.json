@@ -1,5 +1,0 @@
-{
-  "profile": "aws",
-  "name": "link-preview-generator",
-  "regions": ["eu-central-1"]
-}
